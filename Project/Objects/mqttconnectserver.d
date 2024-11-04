@@ -1,0 +1,11 @@
+.\objects\mqttconnectserver.o: ..\App\mqtt\MQTTConnectServer.c
+.\objects\mqttconnectserver.o: ..\App\mqtt\StackTrace.h
+.\objects\mqttconnectserver.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\mqttconnectserver.o: ..\App\mqtt\MQTTPacket.h
+.\objects\mqttconnectserver.o: ..\App\mqtt\MQTTConnect.h
+.\objects\mqttconnectserver.o: ..\App\mqtt\MQTTPublish.h
+.\objects\mqttconnectserver.o: ..\App\mqtt\MQTTSubscribe.h
+.\objects\mqttconnectserver.o: ..\App\mqtt\MQTTUnsubscribe.h
+.\objects\mqttconnectserver.o: ..\App\mqtt\MQTTFormat.h
+.\objects\mqttconnectserver.o: ..\App\mqtt\MQTTPacket.h
+.\objects\mqttconnectserver.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
